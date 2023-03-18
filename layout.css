@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    background-image: url(https://i.ibb.co/qMdFHzd/mauro-lima-gcj-gz-Mick-unsplash.jpg);
+    padding-bottom: 200px;
+    padding-top: 145px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: #2C2E2F;
+    font-weight: 700;
+    line-height: 86.27px;
+    font-size: 64px;
+    text-align: center;
+    height: 86px;
+
+    font-family: 'Fjalla One', sans-serif;
+        
+}
+
+p {
+    font-size: 19px;
+    line-height: 24px;
+    margin-bottom: 59px;
+    color: #2C2E2F;
+    opacity: .9;
+    
+    font-family: 'Kaushan Script', cursive;
+}
+
+a {
+    padding: 16px 32px;
+    font-family: Cinzel;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+}
+
+.btn-primary {
+    color:#ffffff
+    ;
+}
+
+a:hover,
+.btn-secondary {
+    text-decoration: none;
+    color: #ffffff;
+    background: #DB2777;
+    height: 56px;
+    width: 202px;
+    left: 207px;
+    top: 0px;
+    border-radius: 80px;
+    padding: 16px 32px 16px 32px;
+    opacity: .8;
+
+
+}
+
